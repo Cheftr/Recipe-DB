@@ -1,0 +1,1 @@
+Best way to make use of this is to download the entire folder pack, then create a shortcut of the main exe application. Follow the prompts and let me know if you find any bugs I didn't catch. It's not perfect but the idea is there.
